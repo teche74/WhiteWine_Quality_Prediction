@@ -5,9 +5,11 @@ This project is a simple analysis of the White Wine dataset, exploring the relat
 
 
 # Files
-winequality-white.csv: The raw data file.
-White_Wine_Quality_Prediction.R: A R notebook containing the data analysis and linear regression model.
-README.md: this file.
+< >winequality-white.csv: The raw data file.
+
+< >White_Wine_Quality_Prediction.R: A R notebook containing the data analysis and linear regression model.
+
+< >README.md: this file.
 
 
 # Getting Started
